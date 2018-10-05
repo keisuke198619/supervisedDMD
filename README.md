@@ -4,6 +4,7 @@ Implementation of Supervised dynamic mode decomposition (Supervised DMD).
 
 ## Demo Script
 
+ 
 Run `demo_supDMD.m` for a simple demonstration of Supervised DMD
 
 
@@ -11,7 +12,9 @@ Run `demo_supDMD.m` for a simple demonstration of Supervised DMD
 
 *  **Keisuke Fujii** - [https://researchmap.jp/keisuke7401/?lang=english](https://researchmap.jp/keisuke7401/?lang=english)
 
-## Reference Keisuke Fujii and Yoshinobu Kawahara, "Supervised Dynamic Mode Decomposition via Multitask Learning", submitting.
+
+## Reference 
+Keisuke Fujii and Yoshinobu Kawahara, "Supervised Dynamic Mode Decomposition via Multitask Learning", submitting.
 
 
 ## License
