@@ -10,7 +10,7 @@ Run `demo_supDMD.m` for a simple demonstration of Supervised DMD
 
 ## Author
 
-*  **Keisuke Fujii** - [https://researchmap.jp/keisuke7401/?lang=english](https://researchmap.jp/keisuke7401/?lang=english)
+*  **Keisuke Fujii** - [https://sites.google.com/site/keisuke1986en/](https://sites.google.com/site/keisuke1986en/)
 
 
 ## Reference 
