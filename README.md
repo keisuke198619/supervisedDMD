@@ -14,7 +14,7 @@ Run `demo_supDMD.m` for a simple demonstration of Supervised DMD
 
 
 ## Reference 
-Keisuke Fujii and Yoshinobu Kawahara, "Supervised Dynamic Mode Decomposition via Multitask Learning", submitting.
+Keisuke Fujii and Yoshinobu Kawahara, "[Supervised Dynamic Mode Decomposition via Multitask Learning](https://www.sciencedirect.com/science/article/pii/S0167865519300467)", Pattern Recognition Letters, 122(1) 7-13 2019.
 
 
 ## License
